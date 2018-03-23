@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzzapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chai-http": "^3.0.0",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "nodemon": "^1.17.1",
+    "should": "^13.2.1"
+  }
+}
